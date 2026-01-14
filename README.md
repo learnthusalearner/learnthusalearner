@@ -25,6 +25,7 @@
   <a href="https://www.linkedin.com/in/kunal-srivastava-9a8758258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br>
   <a href="https://github.com/learnthusalearner" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-learnthusalearner-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -69,19 +70,6 @@ Git · GitHub · Docker (learning) · Postman · Linux · Streamlit
 
 **Tech:** Python · Local LLMs · LangChain  
 
----
-
-## 📈 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learnthusalearner&show_icons=true&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnthusalearner&theme=react" />
-</p>
-
----
 
 ## 🧠 Strengths & Focus Areas  
 
