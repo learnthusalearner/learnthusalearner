@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Srivastava</h1>
-<h3 align="center">Full-Stack Developer | AI-Integrated Systems | Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | AI-Powered Systems | Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/learnthusalearner">
@@ -11,101 +11,91 @@
 
 ## 🚀 About Me  
 
-- 🎓 **B.Tech CSE (2026)** — KIIT University  
-- 💻 **Full-Stack Developer** with hands-on production experience  
-- 🧠 Building **AI-powered, agentic systems** and scalable web apps  
-- 🏢 Internship experience with **IIT Kanpur**  
-- 🌱 Currently exploring **DevOps, LLM integrations & system design**  
-- 🎯 Actively seeking **Full-Stack / AI-Integrated Engineering roles**
+- 🎓 **B.Tech Computer Science & Engineering (2026)** — KIIT University  
+- 💻 **Full-Stack Developer** with practical experience building scalable apps  
+- 🤖 Integrating **AI & automation workflows** into real-world tooling  
+- 🌱 Exploring **DevOps, Systems Design, and LLM-based solutions**  
+- 🎯 Actively **Exploring**
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunal-srivastava-9a8758258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/learnthusalearner" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-learnthusalearner-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### **Frontend**
-- React.js, Next.js
-- HTML, CSS, JavaScript, TypeScript
-- Tailwind CSS, Material UI, Framer Motion
+React.js · Next.js · HTML · CSS · JavaScript · TypeScript · Tailwind · MUI
 
 ### **Backend**
-- Node.js, Express.js
-- REST APIs, Authentication, Authorization
-- MongoDB, SQL, ORM-based data modeling
+Node.js · Express · REST APIs · Authentication · MongoDB · SQL · ORMs
 
 ### **AI / GenAI**
-- LLM integrations (OpenAI / local models)
-- Agentic workflows & task decomposition
-- Vector databases & embeddings
-- AI-powered chatbots and analytics systems
+LLM integrations · Agentic workflows · Vector DBs · Embeddings · AI Chatbots
 
-### **Dev & Tools**
-- Git & GitHub
-- Docker (learning)
-- Streamlit
-- Postman
-- Linux
+### **Tools**
+Git · GitHub · Docker (learning) · Postman · Linux · Streamlit
 
 ---
 
 ## 📌 Featured Projects  
 
-### 🔹 Agentic Marketing Intelligence System  
-> Converts natural language queries into structured, data-backed insights using multi-agent pipelines.
-
-- Multi-agent task orchestration  
-- MongoDB-backed real data querying  
-- Iterative reasoning for grounded outputs  
-
-**Tech:** Node.js, MongoDB, LLMs, Agents  
+### 🔹 **Agentic Marketing Intelligence System**  
+> A multi-agent system that converts natural language queries into structured, data-grounded insights.  
+**Tech:** Node.js · MongoDB · LLMs · Agent Orchestration
 
 ---
 
-### 🔹 AI Disease Prediction Platform  
-> ML-based prediction system for diabetes, heart disease & Parkinson’s.
-
-- Streamlit UI
-- Trained ML models
-- Clean, interpretable results
-
-**Tech:** Python, ML, Streamlit  
+### 🔹 **AI Disease Prediction Platform**  
+> Predicts diseases like diabetes, heart disease & Parkinson’s with ML & Streamlit UI.  
+**Tech:** Python · ML · Streamlit
 
 ---
 
-### 🔹 PDF Chatbot with Local Embeddings  
-> Privacy-first chatbot using **local embeddings** instead of cloud APIs.
-
-- Ollama-based local models
-- Document-level semantic search
-- Fast and cost-efficient
-
-**Tech:** Python, LangChain, Local LLMs  
+### 🔹 **PDF Chatbot with Local Embeddings**  
+> Privacy-first chatbot using local vector embeddings (no cloud APIs).  
+**Tech:** Python · Local LLMs · LangChain
 
 ---
 
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learnthusalearner&show_icons=true&theme=react" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=learnthusalearner&show_icons=true&theme=react" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnthusalearner&theme=react" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnthusalearner&theme=react" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect  
+## 🧠 Highlights & Strengths
 
-- 💼 **Open to internships & full-time roles**
-- 📫 Reach me via GitHub or LinkedIn  
-- 💬 Always happy to discuss **full-stack systems, AI products & startups**
-
-<p align="center">
-  <a href="https://github.com/learnthusalearner">
-    <img src="https://img.shields.io/badge/GitHub-learnthusalearner-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+- Hands-on experience with **end-to-end project development**
+- Effective at **feature ownership** from design → implementation
+- Strong fundamentals in **data structures & system design**
+- Passionate about **AI-centric tooling & automation**
 
 ---
 
-⭐ *If you’re a recruiter or founder: I enjoy owning features end-to-end — from idea → architecture → production.*
+## 🤝 Let’s Build Something
+
+I’m open to:
+- Full-Stack / Software Engineering roles
+- AI / ML Tooling & Integration roles
+- Projects involving **agentic workflows or intelligent systems**
+
+📫 **Reach me on LinkedIn:**  
+👉 https://www.linkedin.com/in/kunal-srivastava-9a8758258/
+
